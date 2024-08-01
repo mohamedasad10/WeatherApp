@@ -25,6 +25,9 @@ Run the Application:
 python weatherapp.py
 Input the Location: When prompted, enter the name of the city or location to get the weather details.
 
+View Raw Data (Optional):
+If you need to see the raw data returned by the weather API, you can request it through the application’s interface.
+
 Contributing
 We welcome contributions! Feel free to submit a pull request or open an issue to discuss improvements, features, or bugs.
 
